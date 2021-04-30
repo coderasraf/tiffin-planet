@@ -1,0 +1,8 @@
+.product-details-inner {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(500px,1fr));
+}
+
+.product-details-area {
+    padding: 100px 0;
+}
